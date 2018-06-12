@@ -41,7 +41,7 @@ public class StringBuilderSample {
         sb = new StringBuilder("ABC");
         sb.reverse();
         System.out.println(sb);
-
+        
         System.out.println("- toString()");
         String s = sb.toString();
         System.out.println(s);        
